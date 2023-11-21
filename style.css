@@ -1,0 +1,27 @@
+.header {
+  height: 20%;
+  background-color: deeppink;
+}
+
+.container-1 {
+  display: flex;
+}
+
+.main {
+  width: 75vw;
+  background-color: green;
+}
+
+.asside {
+  background-color: blueviolet;
+}
+
+.footer {
+  height: 10%;
+  background-color: dodgerblue;
+}
+
+.grande {
+  width: 1600px;
+  height: 900px;
+}
